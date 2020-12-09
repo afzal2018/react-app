@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Breact-app%7D/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/%7Breact-app%7D/static/js/main.1565b31a.chunk.js",
+    "main.js.map": "/%7Breact-app%7D/static/js/main.1565b31a.chunk.js.map",
+    "runtime-main.js": "/%7Breact-app%7D/static/js/runtime-main.b51beffc.js",
+    "runtime-main.js.map": "/%7Breact-app%7D/static/js/runtime-main.b51beffc.js.map",
+    "static/js/2.3c526069.chunk.js": "/%7Breact-app%7D/static/js/2.3c526069.chunk.js",
+    "static/js/2.3c526069.chunk.js.map": "/%7Breact-app%7D/static/js/2.3c526069.chunk.js.map",
+    "static/js/3.8e2f82ac.chunk.js": "/%7Breact-app%7D/static/js/3.8e2f82ac.chunk.js",
+    "static/js/3.8e2f82ac.chunk.js.map": "/%7Breact-app%7D/static/js/3.8e2f82ac.chunk.js.map",
+    "index.html": "/%7Breact-app%7D/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/%7Breact-app%7D/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3c526069.chunk.js.LICENSE.txt": "/%7Breact-app%7D/static/js/2.3c526069.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b51beffc.js",
+    "static/js/2.3c526069.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1565b31a.chunk.js"
+  ]
+}
